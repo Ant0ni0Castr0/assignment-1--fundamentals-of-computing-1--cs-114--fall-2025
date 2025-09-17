@@ -40,7 +40,7 @@ public class Assignment1Program1 {
     int max = 16384;
     int randomNum = rand.nextInt(max - min + 1) + min;
     
-    System.out.println("Your new string is " + tempC + Reversed + randomNum);
+    System.out.println("\nYour new string is " + tempC + Reversed + randomNum);
 
 
     scanner.close();
